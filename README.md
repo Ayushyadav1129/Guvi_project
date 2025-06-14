@@ -1,4 +1,4 @@
-# Console-Based Calculator in Java
+# Console-Based Calculator
 
 ## Project Overview
 This is a simple console-based calculator built using Java. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The application also maintains a history of operations during a session.
